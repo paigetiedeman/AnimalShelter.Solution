@@ -7,8 +7,8 @@
 <h4>Add a new Type of animal</h4>
 @using (Html.BeginForm())
 {
-  @Html.LabelFor(model => model.AnimalType)
-  @Html.TextBoxFor(model => model.AnimalType)
+  @Html.LabelFor(model => model.Type)
+  @Html.TextBoxFor(model => model.Type)
   <input type="submit" value="Add new animal">
 }
 <p>@Html.ActionLink("Show all animals", "Index")</p>
