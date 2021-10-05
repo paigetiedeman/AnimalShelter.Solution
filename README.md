@@ -8,7 +8,9 @@
 
 #### _By Paige Tiedeman, Anna Clarke & Melissa Schatz-Miller_  
 
-![Relationship Table](/AnimalShelter/wwwroot/img/Table.jpg)
+![Relationship Table](/AnimalShelter/wwwroot/img/Table.jpg?raw=true)
+
+<!-- ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title") -->
 
 ## Technologies Used
 
