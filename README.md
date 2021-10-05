@@ -8,9 +8,9 @@
 
 #### _By Paige Tiedeman, Anna Clarke & Melissa Schatz-Miller_  
 
-<img align="center" src="AnimalShelter/wwwroot/img/Table.jpg" >  
+<img align="center" src="AnimalShelter/wwwroot/img/table.png" >  
 
-![Relationship Table](/AnimalShelter/wwwroot/img/Table.jpg?raw=true)
+![Relationship Table](/AnimalShelter/wwwroot/img/table.png?raw=true)
 
 
 
