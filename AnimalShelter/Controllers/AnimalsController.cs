@@ -7,9 +7,9 @@ namespace AnimalShelter.Controllers
 {
   public class AnimalsController : Controller
   {
-    private readonly AnimalContext _db;
+    private readonly AnimalShelterContext _db;
 
-    public AnimalsController(AnimalContext db)
+    public AnimalsController(AnimalShelterContext db)
     {
       _db = db;
     }
