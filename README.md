@@ -2,11 +2,15 @@
 [![Language][languageH-shield]][languageH-url]
 [![MIT License][license-shield]][license-url]
 
-# Project Name
+# Animal Shelter
 
 #### This is a C# web application ...
 
 #### _By Paige Tiedeman_
+
+<!-- <img src="wwwroot/img/Table.JPG" alt="Table" width="80" height="80"> -->
+
+![Relationship Table](https://paigetiedeman.github.com/AnimalShelter.Solution/tree/main/AnimalShelter/wwwroot/img/Table.jpg)
 
 ## Technologies Used
 
@@ -31,7 +35,7 @@ This web application takes users inputs of items and places them in a UL list us
 
 
 ## Steps To Use
-* _In your terminal navigate into ProjectName.Solution/ProjectName_
+* _In your terminal navigate into AnimalShelter.Solution/AnimalShelter_
 * _Run `$ dotnet build` to build the site_
 * _Run `$ dotnet run` to start the live server_
 * _Click either button to add or see the list_

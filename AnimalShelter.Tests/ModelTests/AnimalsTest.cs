@@ -1,12 +1,12 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System;
-using ProjectName.Models;
+using AnimalShelter.Models;
 
-namespace ProjectName.Tests
+namespace AnimalShelter.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class AnimalsTests
   {
     [TestMethod]
     public void NameOfMethodWeAreTesting_DescriptionOfBehavior_ExpectedReturnValue()
