@@ -6,11 +6,9 @@
 
 #### This is a C# web application ...
 
-#### _By Paige Tiedeman_
+#### _By Paige Tiedeman, Anna Clarke & Melissa Schatz-Miller_  
 
-<!-- <img src="wwwroot/img/Table.JPG" alt="Table" width="80" height="80"> -->
-
-![Relationship Table](https://paigetiedeman.github.com/AnimalShelter.Solution/tree/main/AnimalShelter/wwwroot/img/Table.jpg)
+![Relationship Table](/AnimalShelter/wwwroot/img/Table.jpg)
 
 ## Technologies Used
 
@@ -18,6 +16,7 @@
 * .NET 5.0
 * ASP.NET Core MVC
 * MSTest
+* Entity
 
 ## Description
 
@@ -48,11 +47,12 @@ This web application takes users inputs of items and places them in a UL list us
 ## License
 
 MIT: See Badge at top for Info
-Copyright (c) 2021 Paige Tiedeman
+Copyright (c) 2021 Paige Tiedeman, Anna Clarke & Melissa Schatz-Miller
 
 ## Contact Information
 
 _Paige Tiedeman @ github.com/paigetiedeman_  
+_Anna Clarke @ github.com/Messquerade_
 
 [license-shield]: https://img.shields.io/badge/License-MIT-blue
 [license-url]: https://opensource.org/licenses/MIT
