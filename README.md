@@ -8,9 +8,15 @@
 
 #### _By Paige Tiedeman, Anna Clarke & Melissa Schatz-Miller_  
 
+<img align="center" src="AnimalShelter/wwwroot/img/Table.jpg" >  
+
 ![Relationship Table](/AnimalShelter/wwwroot/img/Table.jpg?raw=true)
 
-<!-- ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title") -->
+
+
+![Relationship Table](https://raw.github.com/paigetiedeman/AnimalShelter.Solution/AnimalShelter/wwwroot/img/Table.jpg?raw=true)
+
+https://raw.github.com/{USERNAME}/{REPOSITORY}/{BRANCH}/{PATH}
 
 ## Technologies Used
 
